@@ -16,8 +16,8 @@ To find longest common subsequence using Dynamic Programming.
 ```
 /*
 
-Developed by: Hemapriya R
-Register Number: 212222040055 
+Developed by: Bakkiyalakshmi E
+Register Number: 212223220012 
 */
 ```
 ```
